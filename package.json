@@ -1,0 +1,22 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "This is to build and host Information Management Solutions for fabrikam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagyesh17/Fabrikam.git"
+  },
+  "author": "BhagyeshKulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhagyesh17/Fabrikam/issues"
+  },
+  "homepage": "https://github.com/bhagyesh17/Fabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
